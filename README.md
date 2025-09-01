@@ -13,7 +13,7 @@ Early tests suggested the rock might hold incredible secrets:
   - Clues that life once existed on Mars.
   - Or even special properties that could help heal sick humans back on Earth.
 
-But… the NASA has not been able to bring it home to study.
+But NASA has not been able to bring it home to study.
 The rock sits in a spot where rockets cannot safely land.
 
 So they made a plan:
