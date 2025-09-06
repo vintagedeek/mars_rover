@@ -12,7 +12,11 @@ right = Motor(Port.C)
 arm = Motor(Port.A)
 eyes = UltrasonicSensor(Port.S4)
 
+# Measure from outermost edges of a tire (i.e., measure from outer edge of black
+# tire across to the other outer edge )
 WHEEL_DIAMETER = 55.5   # mm
+
+# Measure from center of left tire to center of right tire
 AXLE_TRACK = 110        # mm
 robot = DriveBase(left, right, wheel_diameter=WHEEL_DIAMETER, axle_track=AXLE_TRACK)
 
